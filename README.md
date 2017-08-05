@@ -4,9 +4,12 @@ This programme print the text of the JSON files in a useful format (PrettyPrint)
 
 # Quickstart
 To launch this programme you need to enter the name of the programme (pprint_json.py) and the filepath.
->pprint_json.py <path to file>
+```
+pprint_json.py "path to file"
+```
 Example:
->[
+```
+[
     {
         "Cells": {
             "Address": "улица Академика Павлова, дом 10",
@@ -65,5 +68,6 @@ Example:
         "Number": 1
     },
 ]
+```
 # Project Goals
 The code is written for educational purposes. Training course for web-developers - [DEVMAN.org](https://devman.org)
