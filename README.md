@@ -1,8 +1,9 @@
-# Prettify JSON
+п»ї# Prettify JSON
 
 This programme print the text of the JSON files in a useful format (PrettyPrint)
 
 # Quickstart
+
 To launch this programme you need to enter the name of the programme (pprint_json.py) and the filepath.
 ```
 pprint_json.py "path to file"
@@ -12,46 +13,46 @@ Example:
 [
     {
         "Cells": {
-            "Address": "улица Академика Павлова, дом 10",
-            "AdmArea": "Западный административный округ",
+            "Address": "СѓР»РёС†Р° РђРєР°РґРµРјРёРєР° РџР°РІР»РѕРІР°, РґРѕРј 10",
+            "AdmArea": "Р—Р°РїР°РґРЅС‹Р№ Р°РґРјРёРЅРёСЃС‚СЂР°С‚РёРІРЅС‹Р№ РѕРєСЂСѓРі",
             "ClarificationOfWorkingHours": null,
-            "District": "район Кунцево",
-            "IsNetObject": "да",
-            "Name": "Ароматный Мир",
-            "OperatingCompany": "Ароматный Мир",
+            "District": "СЂР°Р№РѕРЅ РљСѓРЅС†РµРІРѕ",
+            "IsNetObject": "РґР°",
+            "Name": "РђСЂРѕРјР°С‚РЅС‹Р№ РњРёСЂ",
+            "OperatingCompany": "РђСЂРѕРјР°С‚РЅС‹Р№ РњРёСЂ",
             "PublicPhone": [
                 {
                     "PublicPhone": "(495) 777-51-95"
                 }
             ],
-            "TypeService": "реализация продовольственных товаров",
+            "TypeService": "СЂРµР°Р»РёР·Р°С†РёСЏ РїСЂРѕРґРѕРІРѕР»СЊСЃС‚РІРµРЅРЅС‹С… С‚РѕРІР°СЂРѕРІ",
             "WorkingHours": [
                 {
-                    "DayOfWeek": "понедельник",
+                    "DayOfWeek": "РїРѕРЅРµРґРµР»СЊРЅРёРє",
                     "Hours": "09:30-22:30"
                 },
                 {
-                    "DayOfWeek": "вторник",
+                    "DayOfWeek": "РІС‚РѕСЂРЅРёРє",
                     "Hours": "09:30-22:30"
                 },
                 {
-                    "DayOfWeek": "среда",
+                    "DayOfWeek": "СЃСЂРµРґР°",
                     "Hours": "09:30-22:30"
                 },
                 {
-                    "DayOfWeek": "четверг",
+                    "DayOfWeek": "С‡РµС‚РІРµСЂРі",
                     "Hours": "09:30-22:30"
                 },
                 {
-                    "DayOfWeek": "пятница",
+                    "DayOfWeek": "РїСЏС‚РЅРёС†Р°",
                     "Hours": "09:30-22:30"
                 },
                 {
-                    "DayOfWeek": "суббота",
+                    "DayOfWeek": "СЃСѓР±Р±РѕС‚Р°",
                     "Hours": "09:30-22:30"
                 },
                 {
-                    "DayOfWeek": "воскресенье",
+                    "DayOfWeek": "РІРѕСЃРєСЂРµСЃРµРЅСЊРµ",
                     "Hours": "09:30-22:30"
                 }
             ],
